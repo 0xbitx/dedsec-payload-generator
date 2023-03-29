@@ -1,5 +1,5 @@
-
-DEDSEC PAYLOAD GENERATOR is a tool can create undetectable payload for android 10-12 and control android phone remotely and retrieve informations from it. 
+<h1 align="center"> DEDSEC RAT </h1>
+<p align="center"> DEDSEC RAT is a tool can create undetectable payload for android 10-12 and control android phone remotely and retrieve informations from it. </p> 
 
 ## Features
 * Full persistent backdoor
@@ -102,9 +102,9 @@ In the sh shell there are some sub commands
 
 * To get the interpreter:
 ```sudo python3 dedsec-fud.py --shell -i 0.0.0.0 -p 8000```
+ 
 
-### DISCLAIMER
-   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+<h1 align="center"> DISCLAIMER </h1>
 
-The use of the dedsec-tool is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
 
